@@ -1,5 +1,7 @@
 # 3AC-interpreteer
 
+To run use file interpret.py
+
 Example input:
 
 ```xml
